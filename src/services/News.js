@@ -1,4 +1,4 @@
-const API_KEY = "d85932ed46de43c9b574c1230ee7e1ce";
+const API_KEY = "You're api key goes here";
 
 
 export const getURLNews = (categoria, pais) =>{
